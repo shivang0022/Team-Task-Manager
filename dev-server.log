@@ -1,0 +1,4 @@
+
+> projectflow-rbac@1.0.0 dev
+> concurrently "npm run server:dev" "npm run client:dev"
+
